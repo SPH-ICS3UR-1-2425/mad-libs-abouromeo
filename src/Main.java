@@ -23,7 +23,7 @@ public class Main {
 		in. nextLine();
 		String place = in.nextLine();
 		
-		System.out.println("One day, "+name+" wrote a Mad Lib in class!");
+		System.out.println("One day, "+name+" wrote "+num1+" a Mad Lib in "+place+" ");
 	}
 
 }
