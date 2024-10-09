@@ -26,8 +26,8 @@ public class Main {
 		String name3 = in.nextLine();
 		System.out.println("What is your hobby?");
 	    String name6 = in.nextLine();
-	    System.out.println("How many hours do you sleep ?");
-	    int num3 = in.nextInt();
+	    System.out.println("give me a decimal number in your head right now?"); 
+	    String num2 = in.nextLine();
 	    System.out.println("How many cars do you have?" );
 	    int num4 = in.nextInt();
 	    System.out.println("give me a place");
@@ -39,5 +39,5 @@ public class Main {
 	    int num5 = in.nextInt();
 
 	   	System.out.println("One day, "+name+" was sitting with "+name5+" eating "+name4+"  "+name6+"years  in");
-	
+	}
 }
